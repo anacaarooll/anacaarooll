@@ -1,5 +1,7 @@
-## Oi, eu sou a Ana!
+## Olá, eu sou a Ana! 👋
 
-
-- 🌱 I’m currently learning HTML, CSS e JAVASCRIPT.
-- 📫 How to reach me: carolinamatosinhos98@gmail.com
+<div> 
+  <a href = "mailto:carolinamatosinhos98@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ana-carolina-matosinhos-porto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
